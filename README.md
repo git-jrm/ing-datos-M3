@@ -8,10 +8,14 @@ En este espacio se reunen los ejercicios y `Scripts` desarrollados en clases, lo
 También encontrarás por cada ejercicio una explicación detallada, instruccines para ejecutar, comentarios en las instrucciones y evidencia de pruebas.
 
 ## Índice:
-- [Análisis de caso | La librería numpy](#)
-- [Análisis de caso - Obtención de datos desde archivos](#)
-- [Análisis de caso - Data wrangling](#)
-- [Evolución del Aprendizaje](#)
+- [Análisis de caso - La librería numpy](#análisis-de-caso---la-librería-numpy)
+- [Análisis de caso - Obtención de datos desde archivos](#análisis-de-caso---obtención-de-datos-desde-archivos)
+- [  >  ANEXO 1: Código para generar archivos CSV y Excel](#Anexo-1-c%C3%B3digo-para-generar-archivos-csv-y-excel)
+- [  >  ANEXO 2: Fragmento de archivos generados](#anexo-2-fragmento-de-archivos-generados)
+- [Análisis de caso - Data wrangling](#análisis-de-caso---data-wrangling)
+- [  >  ANEXO 1: Código para generar el CSV](#anexo-1-código-para-generar-el-csv)
+- [  >  ANEXO 2: Fragmento del CSV generado](#anexo-2-fragmento-del-csv-generado)
+- [Evolución del Aprendizaje](#anexo-1-código-para-generar-el-csv)
 - [Conclusiones](#)
 
 ## Análisis de caso | La librería numpy

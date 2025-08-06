@@ -422,7 +422,7 @@ Además se demostró cómo el DataFrame de Pandas facilita la manipulación y co
 
 La actividad facilitó el desarrollo de habilidades clave en la recolección y procesamiento de datos heterogéneos mediante librerías de Python, abordando un caso realista que nos permite anticipar escenarios y desafíos comunes para un analista de datos.
 
-ANEXO 1: Código para generar archivos CSV y Excel
+### ANEXO 1: Código para generar archivos CSV y Excel
 
 Archivo M3-L3-genera.py :
 ```Python
@@ -528,7 +528,7 @@ if tennis_players:
    df_tenis.to_csv("M3/M3-L3-top_tenis.csv", index=False)
 ```
 
-ANEXO 2: Fragmento de archivos generados
+### ANEXO 2: Fragmento de archivos generados
 
 Archivo M3-L3-top_tenis.csv :
 ```bash

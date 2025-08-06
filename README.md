@@ -18,7 +18,7 @@ También encontrarás por cada ejercicio una explicación detallada, instruccine
 - [Evolución del Aprendizaje](#evoluci%C3%B3n-del-aprendizaje)
 - [Conclusiones](#conclusiones)
 
-## Análisis de caso | La librería numpy
+## Análisis de caso - La librería numpy
 
 El objetivo de esta actividad es realizar una simulación de un escenario real en el que debemos adoptar el rol de analista de datos del equipo de desarrollo, en una empresa de análisis financiero bursátil que tiene problemas en la integración y análisis de la información del mercado bursátil. El objetivo es optimizar y mejorar la eficiencia con NumPy garantizando eficiencia y eficacia.
 

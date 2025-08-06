@@ -15,8 +15,8 @@ También encontrarás por cada ejercicio una explicación detallada, instruccine
 - [Análisis de caso - Data wrangling](#análisis-de-caso---data-wrangling)
 - [  >  ANEXO 1: Código para generar el CSV](#anexo-1-código-para-generar-el-csv)
 - [  >  ANEXO 2: Fragmento del CSV generado](#anexo-2-fragmento-del-csv-generado)
-- [Evolución del Aprendizaje](#anexo-1-código-para-generar-el-csv)
-- [Conclusiones](#)
+- [Evolución del Aprendizaje](#evoluci%C3%B3n-del-aprendizaje)
+- [Conclusiones](#conclusiones)
 
 ## Análisis de caso | La librería numpy
 

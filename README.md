@@ -900,6 +900,8 @@ df.to_csv('M3/M3-L5-data.csv', index=False)
 print("CSV 'M3/M3-L5-data.csv' generado con éxito.")
 ```
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ### ANEXO 2: Fragmento del CSV generado
 
 Archivo M3-L5-data.csv :
@@ -975,8 +977,12 @@ Este módulo nos llevó desde una visión inicial del ciclo de vida de los datos
 
 A lo largo del módulo, adquirimos un enfoque más técnico y riguroso sobre la importancia de preparar datos de calidad para análisis efectivos. Cada trabajo fue una oportunidad de aplicar estos conceptos con datasets reales y con sentido práctico.
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ## Conclusiones
 
 El **Módulo 3** nos permitió profundizar el ecosistema de Python para la manipulación de grandes volúmenes de datos mediante la aplicación de técnicas y herramientas poderosas que nos facilitan la labor. También gracias a las actividades prácticas aprendimos a usar librerías clave como NumPy, Pandas y BeautifulSoup para la extracción, limpieza y transformación de datos. La práctica de técnicas ETL y Data Wrangling en escenarios realistas nos brindó una comprensión profunda de cómo abordar los desafíos cotidianos en la manipulación de datos.
 
 Además pudimos constrastar los roles de Analista de datos y Cientifico de datos, sumados al rol de Ingeniero de datos nos da los 3 principales roles para implementar la estrategia de datos de una organización, impulsada por una adecuada Gobernanza de Datos.
+
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)

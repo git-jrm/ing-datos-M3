@@ -185,6 +185,8 @@ Este trabajo nos permitió aplicar el uso de la librería NumPy para resolver un
 
 Se evidenció cómo las librerías adecuadas en Python optimizan tanto el desarrollo como la ejecución e interpretación de los datos. Además el escenario propuesto fue de gran ayuda para comprender situaciones reales del día a día de un analista de datos
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ## Análisis de caso - Obtención de datos desde archivos
 
 El objetivo de esta actividad es realizar una simulación de un escenario real en el que debemos adoptar el rol de analista de datos en una empresa de consultoría que trabaja con grandes volúmenes de datos provenientes de diferentes fuentes. El objetivo específico es integrar datos desde múltiples fuentes para luego analizarlos, garantizando eficiencia y eficacia.
@@ -426,6 +428,8 @@ Además se demostró cómo el DataFrame de Pandas facilita la manipulación y co
 
 La actividad facilitó el desarrollo de habilidades clave en la recolección y procesamiento de datos heterogéneos mediante librerías de Python, abordando un caso realista que nos permite anticipar escenarios y desafíos comunes para un analista de datos.
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ### ANEXO 1: Código para generar archivos CSV y Excel
 
 Archivo M3-L3-genera.py :
@@ -532,6 +536,8 @@ if tennis_players:
    df_tenis.to_csv("M3/M3-L3-top_tenis.csv", index=False)
 ```
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ### ANEXO 2: Fragmento de archivos generados
 
 Archivo M3-L3-top_tenis.csv :
@@ -587,6 +593,8 @@ Rank	Jugador	Edad	Market Value	Deporte
 46	Harry Kane	32	€75.00m	Fútbol
 45	Nicolò Barella	28	€75.00m	Fútbol
 ```
+
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
 
 ## Análisis de caso - Data wrangling
 
@@ -844,6 +852,8 @@ Este trabajo nos permitió aprender técnicas y desarrollar habilidades de Data 
 
 Además, se evidenció la relevancia del Data Wrangling como proceso clave en la preparación de datos de calidad, el cual debe estar respaldado por un adecuado y diligente Gobierno de Datos, garantizando la integridad, seguridad y trazabilidad de la información para apoyar decisiones confiables y efectivas.
 
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
+
 ### ANEXO 1: Código para generar el CSV
 
 Archivo M3-L5-genera.py :
@@ -965,6 +975,8 @@ timestamp,id_usuario,tipo,monto,fuente_info,forma_pago
 20250708083858,376,egreso,794.0,email,efectivo
 20250713214053,262,egreso,801.0,email,efectivo
 ```
+
+[Volver](#m3-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos)
 
 ## Evolución del Aprendizaje
 

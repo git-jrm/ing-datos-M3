@@ -1,6 +1,6 @@
-> `Navegación:` [Módulo 2](https://github.com/git-jrm/ing-datos-M2), [Módulo 3](https://github.com/git-jrm/ing-datos-M3)
-
 # M3: Obtención y preparación de datos
+
+> `Navegación:` [Módulo 2](https://github.com/git-jrm/ing-datos-M2), [Módulo 3](https://github.com/git-jrm/ing-datos-M3)
 
 Algo interesante de ver son los casos y sobretodo sus soluciones
 En este espacio se reunen los ejercicios y `Scripts` desarrollados en clases, los conocimientos y experiencias aprendidas en el transcurso del bootcamp.
